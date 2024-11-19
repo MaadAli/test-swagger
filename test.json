@@ -99,7 +99,7 @@
       }
     },
     "/pet": {
-      "patch": {
+      "post": {
         "tags": [
           "pet"
         ],
