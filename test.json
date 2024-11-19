@@ -187,7 +187,7 @@
       }
     },
     "/pet/findByStatus": {
-      "put": {
+      "get": {
         "tags": [
           "pet"
         ],
